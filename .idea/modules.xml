@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Boss/Boss.iml" filepath="$PROJECT_DIR$/Boss/Boss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/BossIsComing.iml" filepath="$PROJECT_DIR$/calculator/BossIsComing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionTest/ExceptionTest.iml" filepath="$PROJECT_DIR$/ExceptionTest/ExceptionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOtest/IOtest.iml" filepath="$PROJECT_DIR$/IOtest/IOtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedRock04.iml" filepath="$PROJECT_DIR$/RedRock04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+    </modules>
+  </component>
+</project>
